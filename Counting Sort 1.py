@@ -1,4 +1,4 @@
-ef countingSort(arr):
+def countingSort(arr):
     
     frequency=[0]*100
     for i in arr:
